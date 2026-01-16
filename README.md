@@ -18,10 +18,10 @@ Notebook: `hands_on_1/hands_on_1.ipynb`
 Notebook: `hands_on_2/hands_on_2.ipynb`
 
 ## Repository structure (for reference)
-CSC2026_VR/
-hands_on_1/
-simulation/   # source code + build/ + outputs + pcruns/
-hands_on_1.ipynb
-hands_on_2/
-simulation/   # source code + build/ + outputs + pcruns/
-hands_on_2.ipynb
+ CSC2026_VR/   
+ hands_on_1/   
+   simulation/   # source code + build/ + outputs + pcruns/
+   hands_on_1.ipynb
+ hands_on_2/
+   simulation/   # source code + build/ + outputs + pcruns/
+   hands_on_2.ipynb
