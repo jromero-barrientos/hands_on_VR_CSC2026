@@ -37,7 +37,7 @@ These exercises are designed to run on the **CERN SWAN** service. You will need 
 ---
 
 ### 4. Run the notebooks (in order)
-   - Once the download is complete, you will be inside a directory named **`hands_on_VR_CSC2026`** (or similar).
+   - Once the download is complete, you will be inside a directory named **`hands_on_VR_CSC2026`**.
    - Open and run the notebooks **in this order**:
       - `hands_on_1/hands_on_1.ipynb` → First practical session (deep shielding & VR).
       - `hands_on_2/hands_on_2.ipynb` → Second practical session (rare events & VR).
