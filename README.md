@@ -16,12 +16,3 @@ Notebook: `hands_on_1/hands_on_1.ipynb`
 
 ## Hands-On 2 — Rare Events and Variance Reduction with Geant4
 Notebook: `hands_on_2/hands_on_2.ipynb`
-
-## Repository structure (for reference)
- CSC2026_VR/   
- hands_on_1/   
-   simulation/   # source code + build/ + outputs + pcruns/
-   hands_on_1.ipynb
- hands_on_2/
-   simulation/   # source code + build/ + outputs + pcruns/
-   hands_on_2.ipynb
