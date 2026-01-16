@@ -47,7 +47,3 @@ These exercises are designed to run on the **CERN SWAN** service. You will need 
 > In particular, the helpers in the Hands On 2 force **1 thread** so that the simulation writes **a single output file** (instead of one per thread).
 
 Instructions and questions are embedded in each notebook. Follow them step-by-step as you progress.
-
----
-
-> **Important:** Do not change the provided build/run helper cells unless explicitly asked in the notebook instructions.
