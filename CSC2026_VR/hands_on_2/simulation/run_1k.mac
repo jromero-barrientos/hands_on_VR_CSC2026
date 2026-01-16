@@ -1,0 +1,4 @@
+/run/initialize
+# /random/setSeeds 12345 67890
+/random/setSeeds 8374 384364
+/run/beamOn 10000

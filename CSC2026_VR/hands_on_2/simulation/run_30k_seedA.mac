@@ -1,0 +1,3 @@
+/run/initialize
+/random/setSeeds 123456 987654
+/run/beamOn 30000

@@ -1,0 +1,2 @@
+runID	mode	Nevt	time_real_s	roi_cell	roi_meanSLW_mm	roi_stderrSLW_mm	roi_relerr	FOM_1_per_s
+0	-1	10000000	1910.01	19	0.000750722	0.000127052	0.16924	0.0182794
