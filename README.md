@@ -2,12 +2,23 @@
 
 This repository contains the two practical sessions (hands-on) for the **Variance Reduction (VR)** part of the Monte Carlo course.
 
-## How to use (SWAN / Jupyter)
-1. **Clone / import this repository** into your SWAN workspace.
-2. Open and run the notebooks **in this order**:
-   - `hands_on_1/hands_on_1.ipynb` -> First practical session.
-   - `hands_on_2/hands_on_2.ipynb` -> Second practical session
-3. Follow the instructions **inside each notebook**.
+## Quick start (SWAN)
+
+1. Go to **https://swan.cern.ch** and log in with your CERN account.
+2. In the SWAN session configuration form:
+   - **Software stack:** `108` (LCG_108)
+   - ✅ Tick: **“Use Python packages installed on CERNBox”**
+   - **CPUs:** `4`
+   - **Memory:** `16 GB`
+3. Click **Start my Session**.
+4. Once your session is ready, click **“Download Project from Git”**.
+5. Paste this repository URL:
+   - `https://github.com/jromero-barrientos/hands_on_VR_CSC2026.git`
+6. Wait until the download completes.
+7. Open and run the notebooks::
+   - `hands_on_1/hands_on_1.ipynb` -> For the first practical session.
+   - `hands_on_2/hands_on_2.ipynb` -> For the second practical session.
+8. Follow the instructions **inside each notebook**.
 
 > **Important:** Do not change the provided build/run helper cells unless explicitly asked in the notebook instructions.
 
