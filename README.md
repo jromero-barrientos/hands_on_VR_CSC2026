@@ -21,7 +21,7 @@ These exercises are designed to run on the **CERN SWAN** service. You will need 
 ---
 
 ### ⚙️ 2. In the SWAN session configuration form:
-   - **Software stack:** `108` (LCG_108)
+   - **Software stack:** `108`
    - Tick: **“Use Python packages installed on CERNBox”**
    - **CPUs:** `4`
    - **Memory:** `16 GB`
