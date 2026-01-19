@@ -10,6 +10,8 @@ Notebook: `hands_on_2/hands_on_2.ipynb`
 
 These exercises are designed to run on the **CERN SWAN** service. You will need an active **CERN account** to proceed.
 
+> ‼️ Please read carefully the instructions below to install and execute these exercises
+
 ---
 
 ## 🚀 Quick start (SWAN)
@@ -31,7 +33,7 @@ These exercises are designed to run on the **CERN SWAN** service. You will need 
 ### ⬇️ 3. Download the repository 
    - Once your session is ready, click **“Download Project from Git”**.
      (the small cloud-and-arrow icon in the upper-right corner).
-   - Paste this repository URL: `https://github.com/jromero-barrientos/hands_on_VR_CSC2026.git`
+   - Paste **this repository URL**: `https://github.com/jromero-barrientos/hands_on_VR_CSC2026.git`
    - Wait until the download completes.
 
 ---
